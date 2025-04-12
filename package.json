@@ -2,7 +2,7 @@
   "name": "wms-ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myeongseok.github.io/cargoops",
+  "homepage": "https://cargoops.github.io/wms-ui",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
